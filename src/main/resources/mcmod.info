@@ -1,0 +1,16 @@
+[
+{
+  "modid": "maleksinfinitygauntlet",
+  "name": "Malek's Infinity Gauntlet",
+  "description": "Thanos Snap pesky mods' items, blocks, ores, biomes, enchantments, recipes, and potions out of existance. This mod prevents whatever you put in the maleksregistry file from being registered to the game registry.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MalekiRe"],
+  "credits": "Malek for being super POG, follow him on twitch or join the discord server, https://twitch.tv/malekire https://discord.st/malekire",
+  "logoFile": "/reality.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
