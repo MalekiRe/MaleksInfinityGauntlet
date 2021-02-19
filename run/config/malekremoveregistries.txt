@@ -1,0 +1,1 @@
+minecraftbyexample:mbe01_block_simple_registry_name
